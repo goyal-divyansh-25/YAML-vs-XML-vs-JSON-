@@ -1,0 +1,53 @@
+# This is a YAML script example
+# It represents a list of fruits with their properties
+
+fruits:
+  - name: apple
+    color: red
+    shape: round
+    price: 0.50
+  - name: banana
+    color: yellow
+    shape: elongated
+    price: 0.25
+  - name: orange
+    color: orange
+    shape: round
+    price: 0.75
+name: John Smith
+age: 35
+email: john.smith@example.com
+phone:
+  home: 555-1234
+  work: 555-5678
+address:
+  street: 123 Main St
+  city: Anytown
+  state: CA
+  zip: 12345
+# This is a YAML file example
+
+# Start with some metadata
+title: My YAML Example
+author: John Doe
+date: 2022-01-01
+
+# Define some data structures
+fruits:
+  - apple
+  - banana
+  - cherry
+
+person:
+  name: Jane
+  age: 30
+  email: jane@example.com
+
+# Nested data structures
+company:
+  name: Acme Corp.
+  address:
+    street: 123 Main St.
+    city: Anytown
+    state: CA
+    zip: 12345

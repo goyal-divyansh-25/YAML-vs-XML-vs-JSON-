@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <book id="001">
+    <author>John Doe</author>
+    <title>The Book</title>
+    <genre>Novel</genre>
+    <price>19.99</price>
+  </book>
+  <book id="002">
+    <author>Jane Smith</author>
+    <title>The Second Book</title>
+    <genre>Mystery</genre>
+    <price>12.99</price>
+  </book>
+  <Company>
+  <Employee>
+      <FirstName>Tanmay</FirstName>
+      <LastName>Patil</LastName>
+      <ContactNo>1234567890</ContactNo>
+      <Email>tanmaypatil@xyz.com</Email>
+      <Address>
+           <City>Bangalore</City>
+           <State>Karnataka</State>
+           <Zip>560212</Zip>
+      </Address>
+  </Employee>
+  </Company>
+  <company>
+    <name>Acme Corp.</name>
+    <address>
+      <street>123 Main St.</street>
+      <city>Anytown</city>
+      <state>CA</state>
+      <zip>12345</zip>
+    </address>
+  </company>
+</catalog>
